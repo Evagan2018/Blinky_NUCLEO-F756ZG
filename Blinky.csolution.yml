@@ -1,0 +1,23 @@
+solution:
+  created-by: uv2csolution@1.3.0
+  created-for: CMSIS-Toolbox@2.2.0
+  cdefault: 
+  compiler: AC6
+
+  target-types:
+    - type: NUCLEOF756ZG
+      board: NUCLEO-F756ZG
+      device: STM32F756ZGTx
+      optimize: none
+
+  build-types:
+    - type: Debug
+      debug: on
+      optimize: none
+
+    - type: Release
+      debug: off
+      optimize: balanced
+
+  projects:
+    - project: Blinky.cproject.yml

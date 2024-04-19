@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Csolution output files
+*.cprj
+*.cbuild.yml
+*.cbuild-*.yml
+tmp
+out
+**/*base@*
+**.DS_Store
