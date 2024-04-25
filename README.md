@@ -14,6 +14,9 @@ is available  with various real-time operating systems, for example RTX5 or Free
 
 [![Keil Studio Cloud - Import Project](https://img.shields.io/badge/Keil_Studio_Cloud-Import_Project-0091bd?logo=arm&logoColor=0091bd)](https://studio.keil.arm.com/?import=https://github.com/MDK-Packs/NUCLEO-F756ZG_BSP.git)
 
+[![example workflow](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Blinky_NUCLEO-F756ZG/ci.yml?logo=arm&logoColor=0091bd&label=Example%20Publishable)](https://www.keil.arm.com/) 
+
+
 ## Prerequisites
 
 ### Tools:
