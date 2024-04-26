@@ -9,7 +9,6 @@ project:
     - setup: Options for NUCLEOF756ZG
       processor:
         fpu: sp
-      debug: "on"
       misc:
         - C:
             - -std=c99

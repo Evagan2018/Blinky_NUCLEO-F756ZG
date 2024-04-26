@@ -8,16 +8,15 @@ solution:
     - type: NUCLEOF756ZG
       board: NUCLEO-F756ZG
       device: STM32F756ZGTx
-      optimize: none
 
   build-types:
     - type: Debug
-      debug: on
       optimize: none
+      debug: on
 
     - type: Release
-      debug: off
       optimize: balanced
+      debug: off
 
   projects:
     - project: Blinky.cproject.yml
