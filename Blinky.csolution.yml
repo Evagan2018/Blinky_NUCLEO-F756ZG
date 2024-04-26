@@ -6,7 +6,7 @@ solution:
 
   target-types:
     - type: NUCLEOF756ZG
-      board: NUCLEO-F756ZG
+      board: STMicroelectronics::NUCLEO-F756ZG
       device: STM32F756ZGTx
 
   build-types:
