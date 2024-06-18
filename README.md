@@ -1,4 +1,5 @@
 # Blinky project
+[![CMSIS Compliance](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Blinky_NUCLEO-F756ZG/verify.yml?logo=arm&logoColor=0091bd&label=CMSIS%20Compliance)](https://www.keil.arm.com/cmsis)
 
 The **Blinky** project is a simple example that can be used to verify the
 basic tool setup.
