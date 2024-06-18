@@ -1,5 +1,4 @@
 # Blinky project
-[![CMSIS Compliance](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Blinky_NUCLEO-F756ZG/verify.yml?logo=arm&logoColor=0091bd&label=CMSIS%20Compliance)](https://www.keil.arm.com/cmsis)
 
 The **Blinky** project is a simple example that can be used to verify the
 basic tool setup.
@@ -13,9 +12,10 @@ is available  with various real-time operating systems, for example RTX5 or Free
 - Initially, the vioLED0 blinks in 1 sec interval.
 - The vioBUTTON0 changes the blink frequency and start/stops vioLED1.
 
-[![Keil Studio Cloud - Import Project](https://img.shields.io/badge/Keil_Studio_Cloud-Import_Project-0091bd?logo=arm&logoColor=0091bd)](https://studio.keil.arm.com/?import=https://github.com/MDK-Packs/NUCLEO-F756ZG_BSP.git)
-
+[![Keil Studio Cloud - Import Project](https://img.shields.io/badge/Keil_Studio_Cloud-Import_Project-0091bd?logo=arm&logoColor=0091bd)](https://studio.keil.arm.com/?import=https://github.com/MDK-Packs/NUCLEO-F756ZG_BSP.git) 
 [![example workflow](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Blinky_NUCLEO-F756ZG/ci.yml?logo=arm&logoColor=0091bd&label=Example%20Publishable)](https://www.keil.arm.com/) 
+[![CMSIS Compliance](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Blinky_NUCLEO-F756ZG/verify.yml?logo=arm&logoColor=0091bd&label=CMSIS%20Compliance)](https://www.keil.arm.com/cmsis)
+
 
 
 ## Prerequisites
