@@ -1,8 +1,8 @@
 solution:
-  created-by: uv2csolution@1.3.0
-  created-for: CMSIS-Toolbox@2.2.0
-  cdefault: 
+  description: Simple Blinky example to verify basic tools setup.
+  created-for: CMSIS-Toolbox@2.6.0
   compiler: AC6
+  cdefault: ./cdefault.yml
 
   target-types:
     - type: NUCLEOF756ZG
@@ -11,7 +11,7 @@ solution:
 
   build-types:
     - type: Debug
-      optimize: none
+      optimize: debug
       debug: on
 
     - type: Release
